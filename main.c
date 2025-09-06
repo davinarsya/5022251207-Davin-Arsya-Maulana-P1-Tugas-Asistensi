@@ -1,8 +1,7 @@
-#include <stdio.h>
-#include <string.h>
+// Solve The Problem for this code
 
 
-const char* index_nilai(float nilai) {
+const char* index_nilai(nilai) {
     if (nilai >= 86) {
         return "A";
     } 
@@ -27,9 +26,8 @@ const char* index_nilai(float nilai) {
 }
 
 
-float kalkulasi_ip(float *matkul, int *sks, int n) {
-    float totalNilai = 0;
-    int totalSKS = 0;
+float kalkulasi_ip(*matkul, int *sks, int n) {
+    
 
     for (int i = 0; i < n; i++) {
         totalNilai += matkul[i] * sks[i];  
@@ -43,8 +41,7 @@ float kalkulasi_ip(float *matkul, int *sks, int n) {
 
 int main(){
     char nama[20];
-    int NRP;
-    int umur;
+
 
     printf("ingfo nama: ");
     fgets(nama, sizeof(nama), stdin);
