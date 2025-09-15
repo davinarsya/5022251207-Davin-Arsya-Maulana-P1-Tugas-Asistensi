@@ -31,5 +31,5 @@ After :
 
 ![After](img/image-7.png)
 
-# Note
-maaaf, aku baru terjun di dunia coding hehe
+# Disclaimer!!!
+maaf jika kurang baik dalam hal coding karena masih pemula (awam)
