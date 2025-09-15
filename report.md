@@ -30,3 +30,6 @@ Before :
 After : 
 
 ![After](img/image-7.png)
+
+# Note
+maaaf, aku baru terjun di dunia coding hehe
