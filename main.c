@@ -1,5 +1,5 @@
 // Solve The Problem for this code
-
+#include <stdio.h>
 
 const char* index_nilai(nilai) {
     if (nilai >= 86) {
@@ -26,8 +26,9 @@ const char* index_nilai(nilai) {
 }
 
 
-float kalkulasi_ip(*matkul, int *sks, int n) {
-    
+float kalkulasi_ip(float *matkul, int *sks, int n) {
+    float totalNilai = 0;
+    int totalSKS = 0;
 
     for (int i = 0; i < n; i++) {
         totalNilai += matkul[i] * sks[i];  
@@ -46,9 +47,11 @@ int main(){
     printf("ingfo nama: ");
     fgets(nama, sizeof(nama), stdin);
 
+    int umur;
     printf("P Umur: ");
     scanf("%d" , &umur);
 
+    int NRP;
     printf("NRP dong biar tau: ");
     scanf("%d" , &NRP);
 
