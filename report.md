@@ -5,7 +5,7 @@ Report Perbaikan DASPROG P1
 ini bahasa C gaada deklarasinya gimana wee
 Before :
 
-![alt text](image.png)
+![alt text](img\image.png)
 
 After :
 
