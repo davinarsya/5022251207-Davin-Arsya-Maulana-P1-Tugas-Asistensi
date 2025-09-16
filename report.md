@@ -11,10 +11,6 @@ After :
 
 ![alt text](image-1.png)
 
-# New
-Penambahan konversi dari Nilai ke IP
-![alt text](image-4.png)
-
 # Update
 trus ini kenapa ga lengkap gitu woilah
 
