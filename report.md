@@ -1,37 +1,51 @@
 # HALO REK
-Ini adalah Report Perbaikan Asistensi DASPROG P1
+Report Perbaikan DASPROG P1
 
-# Library
-melengkapi library yang dibutuhkan dalam Bahasa C yakni #include <stdio.h>
-
+# Deklarasi
+ini bahasa C gaada deklarasinya gimana wee
 Before :
 
-![Before](img/image-2.png)
+![alt text](image.png)
 
 After :
 
-![After](img/image-3.png)
+![alt text](image-1.png)
 
-# Deklarasi
-Melengkapi semua deklarasi yang hilang
+# New
+Penambahan konversi dari Nilai ke IP
+![alt text](image-4.png)
+
+# Update
+trus ini kenapa ga lengkap gitu woilah
 
 Before :
 
-![Before](img/image-4.png)
+![alt text](image-2.png)
 
 After : 
 
-![After](img/image-5.png)
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![alt text](image-3.png)
 
 Before : 
 
-![Before](img/image-8.png)
+![alt text](image-5.png)
 
 After : 
 
-![After](img/image-7.png)
+![alt text](image-6.png)
 
-# Disclaimer!!!
-maaf jika kurang baik dalam hal coding karena masih pemula (awam)
+Before :
+
+![alt text](image-7.png)
+
+After : 
+
+![alt text](image-8.png)
+
+Before :
+
+![alt text](image-9.png)
+
+After :
+
+![alt text](image-10.png)
