@@ -1,47 +1,47 @@
 # HALO REK
 Report Perbaikan DASPROG P1
 
-# Deklarasi
-ini bahasa C gaada deklarasinya gimana wee
+# Library
+Melengkapi Deklarasi yang hilang
 Before :
 
-![alt text](img\image.png)
+![alt text](img/image.png)
 
 After :
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
 
 # Update
-trus ini kenapa ga lengkap gitu woilah
+Menambahkan sejumlah deklarasi yang hilang
 
 Before :
 
-![alt text](image-2.png)
+![alt text](img/image-2.png)
 
 After : 
 
-![alt text](image-3.png)
+![alt text](img/image-3.png)
 
 Before : 
 
-![alt text](image-5.png)
+![alt text](img/image-5.png)
 
 After : 
 
-![alt text](image-6.png)
+![alt text](img/image-6.png)
 
 Before :
 
-![alt text](image-7.png)
+![alt text](img/image-7.png)
 
 After : 
 
-![alt text](image-8.png)
+![alt text](img/image-8.png)
 
 Before :
 
-![alt text](image-9.png)
+![alt text](img/image-9.png)
 
 After :
 
-![alt text](image-10.png)
+![alt text](img/image-10.png)
