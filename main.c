@@ -52,7 +52,7 @@ int main(){
     scanf("%d" , &umur);
 
     printf("NRP: ");
-    scanf("%d" , &NRP);
+    scanf("%s" , &NRP);
 
     int n;
     printf("Jumlah matkul Semester ini : ");
