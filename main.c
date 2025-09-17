@@ -43,8 +43,7 @@ float kalkulasi_ip(float*matkul, int *sks, int n) {
 int main(){
     char nama[20];
     int umur;
-    int NRP;
-
+    char NRP[30];
 
     printf("Nama: ");
     fgets(nama, sizeof(nama), stdin);
@@ -77,7 +76,7 @@ int main(){
 
     printf("\nNama: %s", nama);
     printf("Umur: %d \n", umur);
-    printf("NRP: %d \n" , NRP);
+    printf("NRP: %s \n" , NRP);
 
     for(int j = 0; j < n ; j++){
         printf("Indeks nilai matkul %d: %s\n", j + 1, index_nilai(matkul[j]));
