@@ -48,5 +48,7 @@ After :
 
 Merubah tipe data integer pada NRP menggunakan char
 int NRP; --> char NRP[30];
+
 scanf("NRP \s",NRP);
+
 printf("NRP \s",NRP);
