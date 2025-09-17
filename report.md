@@ -45,3 +45,8 @@ Before :
 After :
 
 ![alt text](img/image-10.png)
+
+Merubah tipe data integer pada NRP menggunakan char
+int NRP; --> char NRP[30];
+scanf("NRP \s",NRP);
+printf("NRP \s",NRP);
